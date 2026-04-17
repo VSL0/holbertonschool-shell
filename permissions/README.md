@@ -1,1 +1,1 @@
-Permissions directory
+Permissions
